@@ -1,2 +1,2 @@
 # learning-rust
- a little repo for me learning rust and wgpu
+ a little repo for me learning rust and wgpu :D
